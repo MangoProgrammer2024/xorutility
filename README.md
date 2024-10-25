@@ -1,0 +1,2 @@
+# xorutility
+Game Script Utilities
