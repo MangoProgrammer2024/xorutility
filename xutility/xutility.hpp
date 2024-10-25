@@ -17,7 +17,9 @@ public:
  UtilityStandard();
  virtual ~UtilityStandard();
 
-  UtilityStandard * utility_ptr
+  UtilityStandard * utility_ptr;
+
+  const char * XUtilityString(const XUtility * string)const;
 
 };
 
